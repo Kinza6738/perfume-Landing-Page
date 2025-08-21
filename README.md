@@ -23,6 +23,6 @@ This project focuses on **responsive design**, **typography balance**, and **vis
 ---
 ## Preview
 
-![Landing Page Screenshot](./screenshot.png)
+![Landing Page Screenshot](./screenshoot.png)
 
 ## 📂 Project Structure  
