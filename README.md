@@ -21,6 +21,7 @@ This project focuses on **responsive design**, **typography balance**, and **vis
 - **Figma (for UI design inspiration)**  
 
 ---
-
+## Preview
+screenshoot(./screenshoot.png)
 
 ## 📂 Project Structure  
